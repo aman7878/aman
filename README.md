@@ -1,5 +1,5 @@
 # Analog-Clock
-It designed on JavaScript, CSS And HTML . It updates time from computer system.
+It designed on JavaScript, CSS And HTML . It updates time from API.
 
 ScreenShots:
 ![2021-09-13 (1)](https://user-images.githubusercontent.com/89578075/133048883-6f2e123e-d820-417d-9308-1550b622f5fa.png)
